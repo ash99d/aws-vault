@@ -14,7 +14,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sts v1.4.1
 	github.com/danieljoos/wincred v1.1.0 // indirect
 	github.com/dvsekhvalnov/jose2go v1.5.0 // indirect
-	github.com/google/go-cmp v0.5.4
+	github.com/google/go-cmp v0.5.9
 	github.com/keybase/go-keychain v0.0.0-20200502122510-cda31fe0c86d // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mtibben/androiddnsfix v0.0.0-20200907095054-ff0280446354
